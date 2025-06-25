@@ -1,0 +1,11 @@
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\obj\Debug\Game1A2B.csproj.AssemblyReference.cache
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\obj\Debug\Game1A2B.csproj.GenerateResource.cache
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\obj\Debug\Game1A2B.csproj.CoreCompileInputs.cache
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ispan\source\repos\20250623Demo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
